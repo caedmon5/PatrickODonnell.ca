@@ -1,2 +1,2 @@
-# killbill18
-a draft site for activism against bill 18
+# Patrick O'Donnell
+A draft personal webpage for Patrick O'Donnell
