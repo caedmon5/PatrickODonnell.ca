@@ -157,7 +157,8 @@ header {
     min-height: 100vh; /* Ensures the header takes up the full viewport height */
     @include background-cover; /* Ensure this mixin is defined */
     background-position: center;
-    background-image: url('../img/redtapemobile.png');
+/*    background-image: url('../img/redtapemobile.png'); */
+    background-image: url('../img/boukePoster.jpeg');
     text-align: center;
     color: transparent; /* Changed from transparent for visibility */
 
